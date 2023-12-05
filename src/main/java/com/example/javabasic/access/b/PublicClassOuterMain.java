@@ -1,7 +1,5 @@
 package com.example.javabasic.access.b;
 
-import com.example.javabasic.access.a.DefaultClass1;
-import com.example.javabasic.access.a.DefaultClass2;
 import com.example.javabasic.access.a.PublicClass;
 
 public class PublicClassOuterMain {

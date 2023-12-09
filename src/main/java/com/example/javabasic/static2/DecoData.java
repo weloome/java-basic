@@ -1,4 +1,4 @@
-package com.example.javabasic.satic1;
+package com.example.javabasic.static2;
 
 public class DecoData {
     private int instanceValue;
